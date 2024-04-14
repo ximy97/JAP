@@ -21,7 +21,7 @@ a:hover{
 .hero {
     position: relative;
     height: 100vh;
-    background-image: url("./exercise5/images/jdmorangecar.jpeg"); 
+    background-image: url("./images/jdmorangecar.jpeg"); 
     background-size: cover;
     background-position: center;
 }
